@@ -1,0 +1,5002 @@
+[
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-01T03:41:42.909945+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-01T03:58:21.8411764+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-01T03:58:37.3272034+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-01T04:51:20.0687035+03:00",
+    "IsWin": false,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-01T10:44:07.1031483+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-02T02:24:56.310353+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-02T02:27:31.6190356+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-02T23:38:39.741427+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      }
+    ],
+    "DatePlayed": "2025-05-02T23:45:47.411631+03:00",
+    "IsWin": false,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-02T23:55:33.582979+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      }
+    ],
+    "DatePlayed": "2025-05-03T01:02:41.399698+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-03T02:14:04.8903151+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [],
+    "DatePlayed": "2025-05-03T02:42:44.3172576+03:00",
+    "IsWin": false,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-03T02:51:00.5479682+03:00",
+    "IsWin": false,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 3,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-04T04:37:48.0521157+03:00",
+    "IsWin": false,
+    "GridSize": 4,
+    "InitialState": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T02:53:30.1356728+03:00",
+    "IsWin": false,
+    "GridSize": 4,
+    "InitialState": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 4
+      },
+      {
+        "Row": 2,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 4
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 4,
+        "Column": 0
+      },
+      {
+        "Row": 4,
+        "Column": 1
+      },
+      {
+        "Row": 4,
+        "Column": 2
+      },
+      {
+        "Row": 4,
+        "Column": 4
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 4
+      },
+      {
+        "Row": 4,
+        "Column": 3
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 4,
+        "Column": 4
+      },
+      {
+        "Row": 0,
+        "Column": 4
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 1,
+        "Column": 4
+      },
+      {
+        "Row": 2,
+        "Column": 4
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 4,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 2,
+        "Column": 4
+      },
+      {
+        "Row": 3,
+        "Column": 4
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 4,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T02:54:46.6471949+03:00",
+    "IsWin": false,
+    "GridSize": 5,
+    "InitialState": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:03:56.700551+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:03:59.6368843+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:04:15.91141+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:05:12.7276061+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:11:05.2998808+03:00",
+    "IsWin": false,
+    "GridSize": 4,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:19:27.5279279+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:47:02.0623042+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:47:50.9807629+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:48:04.0362145+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:48:10.2665278+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T03:50:36.7393577+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T04:21:37.9819247+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-06T04:22:39.7095148+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T04:23:11.3742804+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      }
+    ],
+    "DatePlayed": "2025-05-06T04:24:20.7904896+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T15:08:17.2227167+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-06T16:52:22.9561725+03:00",
+    "IsWin": false,
+    "GridSize": 4,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-07T11:36:37.8070414+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-07T11:41:05.4977686+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-07T12:47:17.8450685+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [],
+    "DatePlayed": "2025-05-07T12:55:01.7281853+03:00",
+    "IsWin": false,
+    "GridSize": 5,
+    "InitialState": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      }
+    ],
+    "DatePlayed": "2025-05-07T13:26:59.2044149+03:00",
+    "IsWin": false,
+    "GridSize": 4,
+    "InitialState": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 3
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-07T13:29:50.8999899+03:00",
+    "IsWin": false,
+    "GridSize": 4,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-10T20:50:58.6843698+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      }
+    ],
+    "DatePlayed": "2025-05-10T20:51:05.9591114+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [],
+    "DatePlayed": "2025-05-11T00:00:47.4479725+03:00",
+    "IsWin": false,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 2,
+        "Column": 3
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 1,
+        "Column": 4
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 3
+      },
+      {
+        "Row": 4,
+        "Column": 0
+      },
+      {
+        "Row": 4,
+        "Column": 2
+      },
+      {
+        "Row": 4,
+        "Column": 4
+      }
+    ],
+    "DatePlayed": "2025-05-15T16:43:07.1911596+03:00",
+    "IsWin": false,
+    "GridSize": 5,
+    "InitialState": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [],
+    "DatePlayed": "2025-05-15T16:44:26.666685+03:00",
+    "IsWin": false,
+    "GridSize": 5,
+    "InitialState": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 3
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 3
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 3,
+        "Column": 0
+      },
+      {
+        "Row": 3,
+        "Column": 1
+      },
+      {
+        "Row": 3,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-15T16:45:31.0803216+03:00",
+    "IsWin": true,
+    "GridSize": 4,
+    "InitialState": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-15T16:51:22.7621078+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [],
+    "DatePlayed": "2025-05-15T16:54:40.330648+03:00",
+    "IsWin": false,
+    "GridSize": 5,
+    "InitialState": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-15T16:59:16.5782822+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-15T17:01:35.4847789+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      }
+    ],
+    "DatePlayed": "2025-05-20T18:52:52.5421093+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "Moves": [
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 0,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      },
+      {
+        "Row": 0,
+        "Column": 2
+      },
+      {
+        "Row": 1,
+        "Column": 1
+      },
+      {
+        "Row": 1,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 2
+      },
+      {
+        "Row": 2,
+        "Column": 0
+      }
+    ],
+    "DatePlayed": "2025-05-20T18:58:42.0066046+03:00",
+    "IsWin": true,
+    "GridSize": 3,
+    "InitialState": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  }
+]

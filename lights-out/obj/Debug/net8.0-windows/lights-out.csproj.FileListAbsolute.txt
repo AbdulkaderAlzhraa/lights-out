@@ -1,0 +1,23 @@
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights_out.home.resources
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.AssemblyInfo.cs
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\lights-out\lights-out\bin\Debug\net8.0-windows\lights-out.exe
+C:\Users\acer\source\repos\lights-out\lights-out\bin\Debug\net8.0-windows\lights-out.deps.json
+C:\Users\acer\source\repos\lights-out\lights-out\bin\Debug\net8.0-windows\lights-out.runtimeconfig.json
+C:\Users\acer\source\repos\lights-out\lights-out\bin\Debug\net8.0-windows\lights-out.dll
+C:\Users\acer\source\repos\lights-out\lights-out\bin\Debug\net8.0-windows\lights-out.pdb
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.dll
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\refint\lights-out.dll
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.pdb
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.genruntimeconfig.cache
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\ref\lights-out.dll
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights_out.Description.resources
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights_out.Reportcs.resources
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights_out.GameHistoryForm.resources
+C:\Users\acer\source\repos\lights-out\lights-out\obj\Debug\net8.0-windows\lights_out.GameBoard.resources
+C:\Users\omara\OneDrive\Documents\project game\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.dll
+C:\Users\omara\OneDrive\Documents\project game\lights-out\lights-out\obj\Debug\net8.0-windows\refint\lights-out.dll
+C:\Users\omara\OneDrive\Documents\project game\lights-out\lights-out\obj\Debug\net8.0-windows\lights-out.pdb
